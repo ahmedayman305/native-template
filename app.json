@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "my-app",
+    "slug": "my-app",
+    "scheme": "my-template",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "web": {},
+    "plugins": ["expo-router"]
+  }
+}
